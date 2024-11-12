@@ -1,5 +1,4 @@
 package com.mikkel.chatapp.server;
-import com.mikkel.chatapp.client.ClientHandler;
 
 import java.io.*;
 import java.net.*;
